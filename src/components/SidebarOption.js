@@ -52,7 +52,7 @@ const SidebarOptionContainer = styled.div`
   }
 
   > h3 {
-    font-weight: 500;
+    font-weight: 490;
   }
 
   > h3 > span {
