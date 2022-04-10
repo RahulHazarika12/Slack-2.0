@@ -18,7 +18,7 @@ const Message = ({ message, timestamp, user, userImage }) => {
 const MessageContainer = styled.div`
   display: flex;
   align-items: center;
-  padding: 20px;
+  padding: 19px;
 
   > img {
     height: 50px;
