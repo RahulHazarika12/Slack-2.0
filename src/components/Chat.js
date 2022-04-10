@@ -107,7 +107,7 @@ const HeaderRight = styled.div`
   > p {
     display: flex;
     align-items: center;
-    font-size: 14px;
+    font-size: 15px;
   }
 
   > p > .MuiSvgIcon-root {
